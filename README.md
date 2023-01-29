@@ -6,7 +6,7 @@ Install [nodejs](https://nodejs.org/en/download/); select "Automatically install
 
 Clone the repository
 ```sh
-git clone https://github.com/TIC3001/Task1A.git
+git clone https://github.com/TIC3001-AY2223S2/Task1A.git
 cd Task1A
 ```
 
